@@ -1,4 +1,4 @@
-# mNotebook Create React App
+# mNotebook React App
 
 Created own API to login, register users and to create / fetch notes using <strong>ExpressJS and NodeJS</strong>.<br/>
 <strong>MongoDB</strong> is used to store data.<br/>
